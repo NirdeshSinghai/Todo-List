@@ -2,6 +2,7 @@
 The Todo List Application is a simple yet powerful tool designed to help users manage their tasks effectively. It allows users to create, view, update, and delete tasks within a centralized system. With features such as task categorization, prioritization, and status tracking, the Todo List Application empowers users to stay organized and productive.
 
 Key features of the Todo List Application include:
+
 1.Task Creation: Users can easily add new tasks to the list, including details such as task title, description, due date, and priority.
 
 2.Task Management: The application provides functionalities to view, edit, and delete tasks as needed. Users can update task details, mark tasks as completed, or     remove tasks from the list.
